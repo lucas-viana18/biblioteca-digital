@@ -1,4 +1,4 @@
-# Planejamento de desenvolvimento, SiMa 
+# Planejamento de desenvolvimento, Biblioteca Digital
 
 ## What: 
    Este documento apresenta o planejamento para o desenvolvimento do software denominado Biblioteca Digital, que consiste em uma aplicação web voltada à disponibilização, organização e consulta de conteúdos literários digitais, como livros, HQs e mangás, permitindo aos usuários navegar pelo acervo, consultar autores, realizar autenticação e contribuir com novos conteúdos.
