@@ -136,7 +136,7 @@ Plataforma de Biblioteca Digital voltada à divulgação e acesso a obras liter�
 ![Diagrama de Caso de Uso](docs/DiagramaCasoUso.drawio.png)
 
 # Diagrama Sequencial 
-![Diagrama de Sequência](docs/diagrama-Sequencial.png))
+![Diagrama de Sequência](docs/Diagrama-Sequencial.png))
 
 # Backlog
 
