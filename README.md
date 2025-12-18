@@ -139,6 +139,7 @@ Plataforma de Biblioteca Digital voltada à divulgação e acesso a obras liter�
 ![Diagrama de Sequência](docs/diagrama-sequencial.png))
 
 # Backlog
+[BackLog](https://github.com/users/lucas-viana18/projects/2)
 
 # Autor 
 - Lucas Viana
